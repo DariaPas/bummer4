@@ -1,0 +1,61 @@
+GET https://mastodon.social/api/v1/timelines/public
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T191337.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=dariiia
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T182021.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=dariiia
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T181606.200.json
+
+###
+
+GET https://mastodon.social/api/v1/accounts/lookup?acct=Daria__
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T181439.404.json
+
+###
+
+GET https://mastodon.social/api/v1/apps/verify_credentials
+Authorization: Bearer X5ZMrecS_gt3vEtjG8EOZ-C3u0Y4gIhDB_vNk6tq29k
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T181043.200.json
+
+###
+
+GET https://mastodon.social/api/v1/timelines/public
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-09T180433.200.json
+
+###
+
